@@ -1,0 +1,11 @@
+{
+  "name": "tk-portfolio-static",
+  "version": "1.0.0",
+  "description": "My static site",
+  "main": "index.html",
+  "scripts": {
+    "dev": "browser-sync start --server --files \"**/*\" --index index.html"
+  },
+  "author": "tkwong",
+  "license": "ISC"
+}
